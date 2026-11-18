@@ -42,3 +42,7 @@ We welcome researchers, users, and developers interested in snow modelling
 and scientific computing in Julia. Once the repository is available, its
 contribution guidelines and issue tracker will provide the starting point
 for questions, ideas, and contributions.
+
+## HelmutOrg membership
+
+Close collaborators and project partners will be added as Admin/Members to the HelmutOrg directly. Contributors will be added to repositories directly
